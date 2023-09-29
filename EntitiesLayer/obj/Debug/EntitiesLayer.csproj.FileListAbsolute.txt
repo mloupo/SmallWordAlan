@@ -1,0 +1,6 @@
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

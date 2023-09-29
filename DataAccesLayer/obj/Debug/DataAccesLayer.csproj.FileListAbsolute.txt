@@ -1,0 +1,9 @@
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete

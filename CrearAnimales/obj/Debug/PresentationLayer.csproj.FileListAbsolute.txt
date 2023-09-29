@@ -1,0 +1,16 @@
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.exe
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.exe.config
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.exe
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\BiusinessLogicLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\EntitiesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\DataAccesLayer.dll
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\BiusinessLogicLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\EntitiesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\DataAccesLayer.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CaraTexFramework.dll

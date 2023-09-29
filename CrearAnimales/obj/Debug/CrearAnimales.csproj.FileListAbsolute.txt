@@ -1,0 +1,11 @@
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.exe.config
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.exe
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\bin\Debug\CrearAnimales.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.csproj.AssemblyReference.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.UI.AnimalCreated.resources
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.csproj.GenerateResource.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.exe
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.pdb
+C:\Users\ALAN\Desktop\Tercer año\Diseño e implementacion de sistemas\CrearAnimales\CrearAnimales\obj\Debug\CrearAnimales.UI.FoodCreate.resources
